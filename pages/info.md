@@ -18,7 +18,7 @@ Our plans for IDC MVP are summarized in [this document][2]. Please share with us
 
 The slides below provide an overall summary of the IDC development plans.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ23kMhl4fYe2He9UvwBbIhzF9p4CXK982riRdN5b77mIa_VEL9syGl3buTlbPtwtSdOC-z30v057K2/embed?start=true&loop=true&delayms=5000" frameborder="0" width="970" height="575" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqbVzjJHYzZ-GbyyFM-05LEdQh5SdNlHUhapHyf1JUhNhGXTEG-CTt2o_MzSg1h5JGmZPK1_XqrE11/embed?start=true&loop=true&delayms=5000" frameborder="0" width="970" height="575" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 [1]: https://datascience.cancer.gov/data-commons
 [2]: http://bit.ly/crdc-idc-mvp
