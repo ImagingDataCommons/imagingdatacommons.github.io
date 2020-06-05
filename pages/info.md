@@ -20,5 +20,5 @@ The slides below provide an overall summary of the IDC development plans.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqbVzjJHYzZ-GbyyFM-05LEdQh5SdNlHUhapHyf1JUhNhGXTEG-CTt2o_MzSg1h5JGmZPK1_XqrE11/embed?start=true&loop=true&delayms=5000" frameborder="0" width="970" height="575" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[1]: https://datascience.cancer.gov/data-commons
+[1]: https://datacommons.cancer.gov/
 [2]: http://bit.ly/crdc-idc-mvp
