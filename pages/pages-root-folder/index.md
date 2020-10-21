@@ -35,7 +35,7 @@ widget3:
 #
 callforaction:
   url: https://portal.imaging.datacommons.cancer.gov
-  text: Join Imaging Data Commons community ›
+  text: Get started with Imaging Data Commons ›
   style: alert
 permalink: /index.html
 #
