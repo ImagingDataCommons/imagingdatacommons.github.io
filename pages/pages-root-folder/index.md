@@ -34,7 +34,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://forms.gle/kWpebkVphimJanv77
+  url: https://portal.imaging.datacommons.cancer.gov
   text: Join Imaging Data Commons community ›
   style: alert
 permalink: /index.html
